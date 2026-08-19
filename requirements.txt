@@ -1,0 +1,6 @@
+Flask
+pandas
+qrcode
+Pillow
+Werkzeug
+fpdf2
